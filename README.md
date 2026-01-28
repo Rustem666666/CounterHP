@@ -16,6 +16,9 @@
 ![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/6.jpg)
 ![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/7.jpg)
 
+## Примечания
+Если кто будет редактировать изображения, учитывайте что тут использована шрифтовая библиотека, все картинки добавляются через шрифты. Приложил два psd файла фотошопа как пример. Сайт для кодировки изображений использовал этот https://javl.github.io/image2cpp/
+
 ## Полезная информация
 * [Сайт AlexGyver](http://alexgyver.ru/)
 * [Основной YouTube канал AlexGyver](https://www.youtube.com/channel/UCgtAOyEQdAyjvm9ATCi_Aig?sub_confirmation=1)
