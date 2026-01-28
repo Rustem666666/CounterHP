@@ -7,12 +7,12 @@
 - Есть режим ожидания пока устройство не используется
 Счётчик основан на проекте SDReader от AlexGyver https://github.com/AlexGyver/SDreader/
 
-![SCHEME](https://github.com/Rustem666666/CounterHP/blob/master/img/1.jpg)
-![SCHEME](https://github.com/Rustem666666/CounterHP/blob/master/img/2.jpg)
-![SCHEME](https://github.com/Rustem666666/CounterHP/blob/master/img/3.jpg)
-![SCHEME](https://github.com/Rustem666666/CounterHP/blob/master/img/4.jpg)
-![SCHEME](https://github.com/Rustem666666/CounterHP/blob/master/img/5.jpg)
-![SCHEME](https://github.com/Rustem666666/CounterHP/blob/master/img/6.jpg)
+![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/1.jpg)
+![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/2.jpg)
+![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/3.jpg)
+![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/4.jpg)
+![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/5.jpg)
+![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/6.jpg)
 
 ## Полезная информация
 * [Сайт AlexGyver](http://alexgyver.ru/)
