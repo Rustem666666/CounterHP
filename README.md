@@ -14,6 +14,7 @@
 ![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/4.jpg)
 ![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/5.jpg)
 ![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/6.jpg)
+![SCHEME](https://github.com/Rustem666666/CounterHP/blob/develop/img/7.jpg)
 
 ## Полезная информация
 * [Сайт AlexGyver](http://alexgyver.ru/)
